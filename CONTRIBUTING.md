@@ -1,3 +1,5 @@
+# bitte sende eine email an. llieblings_kollege@firma.com
+
 # Contributing
 
 Your contributions are always welcome!
